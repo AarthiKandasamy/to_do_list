@@ -20,13 +20,12 @@ Javascript
 I have used Bootstrap & jQuery and made a responsive and dynamic ToDo List.
 
 # Connect @
-LinkedIn : https://www.linkedin.com/in/thenishantgiri/<br/>
-Email : nishantkrgiri@gmail.com<br/>
-Twitter : www.twitter.com/thenishantgiri/<br/>
+LinkedIn :https://www.linkedin.com/in/aarthi-kandasamy-6a7891281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app<br/>
+Email : aaru25kand@gmail.com<br/>
 
 # Personal
-Name : Nishant Kumar Giri <br/>
-University : University of Delhi, New Delhi
+Name : Aarthi K<br/>
+College: Vivekananda College of Engineering For Women,Namakkal
 
 
 # Gratitude
